@@ -1,0 +1,15 @@
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/bin/Debug/net8.0/SellerService.deps.json
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/bin/Debug/net8.0/SellerService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/bin/Debug/net8.0/SellerService.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/bin/Debug/net8.0/SharedService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/bin/Debug/net8.0/SharedService.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/obj/Debug/net8.0/SellerService.csproj.AssemblyReference.cache
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/obj/Debug/net8.0/SellerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/obj/Debug/net8.0/SellerService.AssemblyInfoInputs.cache
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/obj/Debug/net8.0/SellerService.AssemblyInfo.cs
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/obj/Debug/net8.0/SellerService.csproj.CoreCompileInputs.cache
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/obj/Debug/net8.0/SellerSe.3AC8DE86.Up2Date
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/obj/Debug/net8.0/SellerService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/obj/Debug/net8.0/refint/SellerService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/obj/Debug/net8.0/SellerService.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/obj/Debug/net8.0/ref/SellerService.dll

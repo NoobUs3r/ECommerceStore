@@ -1,0 +1,395 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Z0044SZA/RiderProjects/ECommerce/ECommerce/ECommerce.csproj": {}
+  },
+  "projects": {
+    "/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/BuyerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/BuyerService.csproj",
+        "projectName": "BuyerService",
+        "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/BuyerService.csproj",
+        "packagesPath": "/Users/Z0044SZA/.nuget/packages/",
+        "outputPath": "/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Z0044SZA/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/Z0044SZA/RiderProjects/ConsoleApp1/ConsoleApp1": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pulse-917113436149.d.codeartifact.eu-central-1.amazonaws.com/nuget/pulse-common/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/Z0044SZA/RiderProjects/ECommerce/SharedService/SharedService.csproj": {
+                "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/SharedService/SharedService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Z0044SZA/RiderProjects/ECommerce/ECommerce/ECommerce.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Z0044SZA/RiderProjects/ECommerce/ECommerce/ECommerce.csproj",
+        "projectName": "ECommerce",
+        "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/ECommerce/ECommerce.csproj",
+        "packagesPath": "/Users/Z0044SZA/.nuget/packages/",
+        "outputPath": "/Users/Z0044SZA/RiderProjects/ECommerce/ECommerce/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Z0044SZA/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/Z0044SZA/RiderProjects/ConsoleApp1/ConsoleApp1": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pulse-917113436149.d.codeartifact.eu-central-1.amazonaws.com/nuget/pulse-common/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/BuyerService.csproj": {
+                "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/BuyerService.csproj"
+              },
+              "/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/InfrastructureFactory.csproj": {
+                "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/InfrastructureFactory.csproj"
+              },
+              "/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/SellerService.csproj": {
+                "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/SellerService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/InfrastructureFactory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/InfrastructureFactory.csproj",
+        "projectName": "InfrastructureFactory",
+        "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/InfrastructureFactory.csproj",
+        "packagesPath": "/Users/Z0044SZA/.nuget/packages/",
+        "outputPath": "/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Z0044SZA/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/Z0044SZA/RiderProjects/ConsoleApp1/ConsoleApp1": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pulse-917113436149.d.codeartifact.eu-central-1.amazonaws.com/nuget/pulse-common/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/InfrastructureService.csproj": {
+                "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/InfrastructureService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/InfrastructureService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/InfrastructureService.csproj",
+        "projectName": "InfrastructureService",
+        "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/InfrastructureService.csproj",
+        "packagesPath": "/Users/Z0044SZA/.nuget/packages/",
+        "outputPath": "/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Z0044SZA/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/Z0044SZA/RiderProjects/ConsoleApp1/ConsoleApp1": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pulse-917113436149.d.codeartifact.eu-central-1.amazonaws.com/nuget/pulse-common/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/Z0044SZA/RiderProjects/ECommerce/SharedService/SharedService.csproj": {
+                "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/SharedService/SharedService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/SellerService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/SellerService.csproj",
+        "projectName": "SellerService",
+        "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/SellerService.csproj",
+        "packagesPath": "/Users/Z0044SZA/.nuget/packages/",
+        "outputPath": "/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Z0044SZA/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/Z0044SZA/RiderProjects/ConsoleApp1/ConsoleApp1": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pulse-917113436149.d.codeartifact.eu-central-1.amazonaws.com/nuget/pulse-common/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/Z0044SZA/RiderProjects/ECommerce/SharedService/SharedService.csproj": {
+                "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/SharedService/SharedService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Z0044SZA/RiderProjects/ECommerce/SharedService/SharedService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Z0044SZA/RiderProjects/ECommerce/SharedService/SharedService.csproj",
+        "projectName": "SharedService",
+        "projectPath": "/Users/Z0044SZA/RiderProjects/ECommerce/SharedService/SharedService.csproj",
+        "packagesPath": "/Users/Z0044SZA/.nuget/packages/",
+        "outputPath": "/Users/Z0044SZA/RiderProjects/ECommerce/SharedService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Z0044SZA/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/Users/Z0044SZA/RiderProjects/ConsoleApp1/ConsoleApp1": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pulse-917113436149.d.codeartifact.eu-central-1.amazonaws.com/nuget/pulse-common/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

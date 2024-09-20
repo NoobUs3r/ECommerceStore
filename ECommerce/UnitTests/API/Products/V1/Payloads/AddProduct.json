@@ -1,0 +1,10 @@
+{
+  "Product": {
+    "Id": -1,
+    "Name": "Test Product",
+    "Description": "This is a test product description.",
+    "Price": 99.99,
+    "Weight": 1.5,
+    "Category": "Electronics"
+  }
+}

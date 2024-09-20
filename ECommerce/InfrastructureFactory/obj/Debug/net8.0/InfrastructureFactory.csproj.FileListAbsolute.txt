@@ -1,0 +1,17 @@
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/bin/Debug/net8.0/InfrastructureFactory.deps.json
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/bin/Debug/net8.0/InfrastructureFactory.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/bin/Debug/net8.0/InfrastructureFactory.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/bin/Debug/net8.0/InfrastructureService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/bin/Debug/net8.0/SharedService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/bin/Debug/net8.0/InfrastructureService.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/bin/Debug/net8.0/SharedService.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/obj/Debug/net8.0/InfrastructureFactory.csproj.AssemblyReference.cache
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/obj/Debug/net8.0/InfrastructureFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/obj/Debug/net8.0/InfrastructureFactory.AssemblyInfoInputs.cache
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/obj/Debug/net8.0/InfrastructureFactory.AssemblyInfo.cs
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/obj/Debug/net8.0/InfrastructureFactory.csproj.CoreCompileInputs.cache
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/obj/Debug/net8.0/Infrastr.E7BD0585.Up2Date
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/obj/Debug/net8.0/InfrastructureFactory.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/obj/Debug/net8.0/refint/InfrastructureFactory.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/obj/Debug/net8.0/InfrastructureFactory.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureFactory/obj/Debug/net8.0/ref/InfrastructureFactory.dll

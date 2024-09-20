@@ -1,0 +1,15 @@
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/bin/Debug/net8.0/InfrastructureService.deps.json
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/bin/Debug/net8.0/InfrastructureService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/bin/Debug/net8.0/InfrastructureService.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/bin/Debug/net8.0/SharedService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/bin/Debug/net8.0/SharedService.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/obj/Debug/net8.0/InfrastructureService.csproj.AssemblyReference.cache
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/obj/Debug/net8.0/InfrastructureService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/obj/Debug/net8.0/InfrastructureService.AssemblyInfoInputs.cache
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/obj/Debug/net8.0/InfrastructureService.AssemblyInfo.cs
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/obj/Debug/net8.0/InfrastructureService.csproj.CoreCompileInputs.cache
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/obj/Debug/net8.0/Infrastr.870F2DF1.Up2Date
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/obj/Debug/net8.0/InfrastructureService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/obj/Debug/net8.0/refint/InfrastructureService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/obj/Debug/net8.0/InfrastructureService.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/InfrastructureService/obj/Debug/net8.0/ref/InfrastructureService.dll

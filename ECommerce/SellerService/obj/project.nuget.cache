@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPHv+vdzNWOEDLP5TYyBEXGitJkTpp0z2mfFeAwgHDZkktG1GN6mwHRCXxDqXSlQECnMAY9WQ0Vdrmq05x2sZQ==",
+  "success": true,
+  "projectFilePath": "/Users/Z0044SZA/RiderProjects/ECommerce/SellerService/SellerService.csproj",
+  "expectedPackageFiles": [
+    "/Users/Z0044SZA/.nuget/packages/mediatr/12.4.1/mediatr.12.4.1.nupkg.sha512",
+    "/Users/Z0044SZA/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/Z0044SZA/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

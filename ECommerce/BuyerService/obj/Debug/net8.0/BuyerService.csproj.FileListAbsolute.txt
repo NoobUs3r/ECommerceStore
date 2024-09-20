@@ -1,0 +1,15 @@
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/bin/Debug/net8.0/BuyerService.deps.json
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/bin/Debug/net8.0/BuyerService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/bin/Debug/net8.0/BuyerService.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/obj/Debug/net8.0/BuyerService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/obj/Debug/net8.0/BuyerService.AssemblyInfoInputs.cache
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/obj/Debug/net8.0/BuyerService.AssemblyInfo.cs
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/obj/Debug/net8.0/BuyerService.csproj.CoreCompileInputs.cache
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/obj/Debug/net8.0/BuyerService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/obj/Debug/net8.0/refint/BuyerService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/obj/Debug/net8.0/BuyerService.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/obj/Debug/net8.0/ref/BuyerService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/bin/Debug/net8.0/SharedService.dll
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/bin/Debug/net8.0/SharedService.pdb
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/obj/Debug/net8.0/BuyerService.csproj.AssemblyReference.cache
+/Users/Z0044SZA/RiderProjects/ECommerce/BuyerService/obj/Debug/net8.0/BuyerSer.86AB4761.Up2Date
